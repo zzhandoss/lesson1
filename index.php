@@ -12,5 +12,11 @@
 
 
 	Hello PHP world!!!!
+
+
+	<?php
+echo '<h1>Hello PHP World!!</h1>';?> 
+
+<?php echo "Hello php World "?>
 </body>
 </html>
