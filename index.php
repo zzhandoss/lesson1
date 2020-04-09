@@ -11,13 +11,14 @@
 
 
 
-	Hello PHP world!!!!
+	Hello PHP world!!!!sss
 
 
 	<?php
 echo '<h1>Hello PHP World!!</h1>';?> 
+	<?php
+echo '<h1>Hello PHP World!!</h1>';?> 
 
 <?php echo "Hello php World "?>
-<?php echo '<p>GOOD JOB</>'; ?>
 </body>
 </html>
